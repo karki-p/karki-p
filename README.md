@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paras Karki, github Id: @karki-p
+- 👋 Hi, I’m Paras Karki, a Computer Science graduate student. github Id: @karki-p
 - 👀 I’m interested in web development, AI and ML, UI/UX design.
 - 🌱 I’m currently learning react.js, node.js. 
 - 💞️ I’m looking to collaborate on any related project that interests me.
